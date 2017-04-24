@@ -1,0 +1,1 @@
+Using algorithms for resolve different tasks.
